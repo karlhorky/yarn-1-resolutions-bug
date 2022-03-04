@@ -1,0 +1,11 @@
+{
+  "name": "yarn-1-resolutions-bug",
+  "version": "1.0.0",
+  "devDependencies": {
+    "eslint-config-react-app": "^7.0.0",
+    "eslint-plugin-react": "^7.29.2"
+  },
+  "resolutions": {
+    "eslint-plugin-react": "7.29.2"
+  }
+}
